@@ -2,5 +2,8 @@
   "name": "tcp-gateway",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^13.9.3"
+  }
 }

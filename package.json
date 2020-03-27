@@ -9,5 +9,8 @@
   },
   "dependencies": {
     "@types/node": "^13.9.3"
+  },
+  "devDependencies": {
+    "commander": "^5.0.0"
   }
 }
